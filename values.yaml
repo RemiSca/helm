@@ -1,5 +1,5 @@
 image:
-  repository: "ghcr.io/RemiSca/spring-petclinic"
+  repository: "ghcr.io/remisca/spring-petclinic"
 
 replicas: 1
 
